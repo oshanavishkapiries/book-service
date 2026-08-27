@@ -8,9 +8,9 @@
 ## 👤 Student Information (Section 12 Compliance)
 
 - **Student Name**: OSHAN AVISHKA
-- **Student Number**: HDSE-24-1234
+- **Student Number**: 241711058
 - **Slack Handle**: @oshanavishka
-- **GCP Project ID**: eca-its2130-project
+- **GCP Project ID**: itc-2130-eca
 
 ---
 
